@@ -21,17 +21,18 @@ All points that occur during a bonus question or during overtime do not contribu
 All points earned or deducted by an individual are to be counted towards the team's points.
 
 #### Points Earned
-
+- +10 points for the 1st correct answer given by the 3rd and subsequent quizzer on the team,
+excluding bonus questions
 - +20 points for every correct bonus question before question number 17
      - In 2-team quizzes, this scoring rule does not apply
 - +10 points for every correct bonus question after and including question number 17
      - In 2-team quizzes, all correct bonus questions are worth 10 points
  
-##### Progressive Bonuses
-- +10 points for the 1st correct answer given by the 2nd quizzer on the team, excluding bonus questions
-- +20 points for the 1st correct answer given by the 3rd quizzer on the team, excluding bonus questions
-- +30 points for the 1st correct answer given by the 4th quizzer on the team, excluding bonus questions
-- +40 points for the 1st correct answer given by the 5th quizzer on the team, excluding bonus questions
+>##### Progressive Bonuses
+>- +10 points for the 1st correct answer given by the 2nd quizzer on the team, excluding bonus questions
+>- +20 points for the 1st correct answer given by the 3rd quizzer on the team, excluding bonus questions
+>- +30 points for the 1st correct answer given by the 4th quizzer on the team, excluding bonus questions
+>- +40 points for the 1st correct answer given by the 5th quizzer on the team, excluding bonus questions
 
 #### Readiness Bonus
 
