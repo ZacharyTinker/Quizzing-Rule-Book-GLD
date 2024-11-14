@@ -40,6 +40,9 @@ If only 2 teams were participating in a question and 1 team errs, the next quest
 
 If only 2 teams are participating in a question and 1 team errs, the next question will be an assigned bonus question for the team that did not err. An assigned bonus question is awarded to the corresponding chair of the chair that erred on the toss-up.
 
+>#### Alternate Rule: Jumping Bonuses
+>If only 2 teams are participating in a question and 1 team errs, the next question will be a jumping bonus question for the team that did not err. A jumping bonus question allows any seated quizzer, including those quizzed out, to jump for the bonus question.
+
 #### Example
 
 There are 4 chairs per team, any 1 of which may be filled or empty. If the quizzer seated on chair 2 erred on the toss-up, the quizzer seated on chair 2 of the team that did not err on the toss-up will be awarded the bonus question. If no quizzer of the team that did not err on the toss-up is seated in chair 2, then the bonus is "for an empty seat" and considered a no jump.
