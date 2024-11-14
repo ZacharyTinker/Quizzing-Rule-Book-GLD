@@ -1,4 +1,5 @@
-# Bible Quizzing Rule Book | Great Lakes District
+# Bible Quizzing Rule Book
+## Great Lakes District Edition
 
 - Label: **$build_label**
 - Version: **$github_sha_short**
