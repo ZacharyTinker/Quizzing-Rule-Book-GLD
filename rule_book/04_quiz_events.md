@@ -92,6 +92,12 @@ The quizzer's response is incorrect when:
 
 An err-out eliminates that quizzer from the quiz. The quizzer must leave the platform immediately.
 
+### No Jump
+A No Jump Question occurs when a question is read, no quizzer jumps, and the 5-second timer expires without any attempt to answer. This results in the question going unanswered, and the quiz proceeds to the next question.
+
+>#### No Jump on a Quote
+>If a Quote (Q) question is asked and no quizzer jumps, the question will be repeated with the same number in a "Finish This Verse" (FTV) format.
+
 ## Appeals
 
 Appeals exist so quizzers can contest rulings made by quiz officials. The team captain or co-captain may appeal if:
