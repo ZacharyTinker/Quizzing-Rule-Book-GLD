@@ -191,3 +191,12 @@ Substitutions may be made only during timeouts or to replace a quizzer who quizz
 Quizzed-out quizzers may remain in the quiz to answer bonus questions. Substituting for them afterward will require a timeout. If subbed-out, they may not return for any reason.
 
 When a quizzer quizzes-out, errs-out, or fouls-out and leaves the platform after the event, a substitute may take their place immediately and without a timeout, even if the incoming quizzer has been subbed-out less than 3 questions ago.
+
+>### Inter-League Substitutions
+>
+>A quizzer from a lower league may substitute into the next higher league under the following conditions:
+>
+>- The quizzer has completed all required quizzes in their assigned league.
+>- The quizzer may answer only one question in the quiz they substitute into.
+>
+>Scoring: Correct answers by the substitute quizzer contribute to the higher league team score but do not count toward the quizzer's individual score or statistics in their original league.
